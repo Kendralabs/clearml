@@ -14,7 +14,7 @@ python-dateutil>=2.6.1
 pyjwt>=2.4.0,<2.5.0 ; python_version > '3.5'
 pyjwt>=1.6.4,<2.0.0 ; python_version <= '3.5'
 PyYAML>=3.12
-requests>=2.20.0
+requests>=2.32.0
 six>=1.13.0
 typing>=3.6.4 ; python_version < '3.5'
 urllib3>=1.21.1
