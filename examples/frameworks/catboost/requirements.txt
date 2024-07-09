@@ -2,3 +2,4 @@ catboost
 numpy >= 1.19.2
 scikit_learn
 clearml
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
